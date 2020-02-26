@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3da5abd-cc46-4874-85cd-c830a3b93e74" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YL8EdaGmL9IiJeO1fxeFWeWKjD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Kotlin.com.bridgelabz.basiccore.FactorsKt">
+    <configuration name="com.bridgelabz.basiccore.FactorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramss" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.FactorsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bridgelabz.basiccore.FlipCoinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramss" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.FlipCoinKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bridgelabz.basiccore.LeapYearKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramss" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.LeapYearKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bridgelabz.basiccore.UserInputKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramss" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.UserInputKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.bridgelabz.basiccore.FactorsKt" />
+        <item itemvalue="Kotlin.com.bridgelabz.basiccore.LeapYearKt" />
+        <item itemvalue="Kotlin.com.bridgelabz.basiccore.FlipCoinKt" />
+        <item itemvalue="Kotlin.com.bridgelabz.basiccore.UserInputKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3da5abd-cc46-4874-85cd-c830a3b93e74" name="Default Changelist" comment="" />
+      <created>1582710403902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582710403902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582711031101">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582711031101" />
+    <state width="1253" height="139" key="GridCell.Tab.0.bottom" timestamp="1582725397921">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="139" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582725397921" />
+    <state width="1253" height="139" key="GridCell.Tab.0.center" timestamp="1582725397920">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="139" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582725397920" />
+    <state width="1253" height="139" key="GridCell.Tab.0.left" timestamp="1582725397920">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="139" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582725397920" />
+    <state width="1253" height="139" key="GridCell.Tab.0.right" timestamp="1582725397921">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="139" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582725397921" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1582718371286">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582718371286" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582718427619">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1582718427619" />
+  </component>
+</project>
