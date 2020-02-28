@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3da5abd-cc46-4874-85cd-c830a3b93e74" name="Default Changelist" comment="" />
+    <list default="true" id="d3da5abd-cc46-4874-85cd-c830a3b93e74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/PermutationUsingRecursion.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramss/META-INF/KotlinProgramss.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramss/META-INF/KotlinProgramss.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramss/com/bridgelabz/algorithms/BinarySearchKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramss/com/bridgelabz/algorithms/BinarySearchKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramss/com/bridgelabz/basiccore/FactorsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramss/com/bridgelabz/basiccore/FactorsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramss/com/bridgelabz/basiccore/FlipCoinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramss/com/bridgelabz/basiccore/FlipCoinKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramss/com/bridgelabz/basiccore/LeapYearKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramss/com/bridgelabz/basiccore/LeapYearKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinProgramss/com/bridgelabz/basiccore/UserInputKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinProgramss/com/bridgelabz/basiccore/UserInputKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/Anagram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/Anagram.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/BinarySearch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/BinarySearch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/BinarySearchUser.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/BinarySearchUser.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/Palindrome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/Palindrome.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/Permutation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/Prime.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithms/Prime.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/Factors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/Factors.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/FlipCoin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/FlipCoin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/LeapYear.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/LeapYear.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/UserInput.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/basiccore/UserInput.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +31,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YL8EdaGmL9IiJeO1fxeFWeWKjD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,57 +48,71 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Kotlin.com.bridgelabz.basiccore.FactorsKt">
-    <configuration name="com.bridgelabz.basiccore.FactorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.com.bridgelabz.algorithms.PrimePalindromeKt">
+    <configuration name="com.bridgelabz.algorithms.PaliPrimeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramss" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.FactorsKt" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.algorithms.PaliPrimeKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.bridgelabz.basiccore.FlipCoinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.bridgelabz.algorithms.PalindromeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramss" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.FlipCoinKt" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.algorithms.PalindromeKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.bridgelabz.basiccore.LeapYearKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.bridgelabz.algorithms.PermutationUsingRecursionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramss" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.LeapYearKt" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.algorithms.PermutationUsingRecursionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.bridgelabz.basiccore.UserInputKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.bridgelabz.algorithms.PrimeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramss" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.basiccore.UserInputKt" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.algorithms.PrimeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bridgelabz.algorithms.PrimePalindromeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramss" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.algorithms.PrimePalindromeKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,10 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.bridgelabz.basiccore.FactorsKt" />
-        <item itemvalue="Kotlin.com.bridgelabz.basiccore.LeapYearKt" />
-        <item itemvalue="Kotlin.com.bridgelabz.basiccore.FlipCoinKt" />
-        <item itemvalue="Kotlin.com.bridgelabz.basiccore.UserInputKt" />
+        <item itemvalue="Kotlin.com.bridgelabz.algorithms.PrimePalindromeKt" />
+        <item itemvalue="Kotlin.com.bridgelabz.algorithms.PaliPrimeKt" />
+        <item itemvalue="Kotlin.com.bridgelabz.algorithms.PalindromeKt" />
+        <item itemvalue="Kotlin.com.bridgelabz.algorithms.PrimeKt" />
+        <item itemvalue="Kotlin.com.bridgelabz.algorithms.PermutationUsingRecursionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -101,30 +142,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582711031101">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582780127368">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582711031101" />
-    <state width="1253" height="139" key="GridCell.Tab.0.bottom" timestamp="1582725397921">
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1582780127368" />
+    <state width="1253" height="358" key="GridCell.Tab.0.bottom" timestamp="1582882649532">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="139" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582725397921" />
-    <state width="1253" height="139" key="GridCell.Tab.0.center" timestamp="1582725397920">
+    <state width="1253" height="358" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582882649532" />
+    <state width="1253" height="358" key="GridCell.Tab.0.center" timestamp="1582882649531">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="139" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582725397920" />
-    <state width="1253" height="139" key="GridCell.Tab.0.left" timestamp="1582725397920">
+    <state width="1253" height="358" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582882649531" />
+    <state width="1253" height="358" key="GridCell.Tab.0.left" timestamp="1582882649528">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="139" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582725397920" />
-    <state width="1253" height="139" key="GridCell.Tab.0.right" timestamp="1582725397921">
+    <state width="1253" height="358" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582882649528" />
+    <state width="1253" height="358" key="GridCell.Tab.0.right" timestamp="1582882649532">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="139" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582725397921" />
-    <state x="205" y="31" key="SettingsEditor" timestamp="1582718371286">
+    <state width="1253" height="358" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582882649532" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1582808251164">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582718371286" />
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1582808251164" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582882179054">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582882179054" />
+    <state x="282" y="75" width="869" height="642" key="find.popup" timestamp="1582866911056">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="282" y="75" width="869" height="642" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1582866911056" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1582800743231">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1582800743231" />
     <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582718427619">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

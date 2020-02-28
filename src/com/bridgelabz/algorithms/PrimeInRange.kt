@@ -8,35 +8,34 @@ import java.util.*
  **********************************************************************************************************************/
 fun main(args : Array<String>) {
 
-     var sc = Scanner(System. `in`)
+    var sc = Scanner(System. `in`)
 
     println("Enter the Limit to Print Prime Numbers")
     var limit = sc.nextInt()
 
-    prime(limit)
+    primeInRange(limit)
+
 }
 
-fun prime(limit : Int){
+fun primeInRange(limit : Int){
 
-    var isPrime : Boolean
-    var count : Int = 0
+    var primeCount : Int = 0
 
-    for(num in 1 until limit)
+    for(num in 0..limit)
     {
-        isPrime = true
-        for(i in 2 until num-1)
+        var count : Int = 0
+        for(i in num downTo 1)
         {
             if (num % i == 0)
             {
-                isPrime = false
-            }
-        }
-            if(isPrime)
-            {
-                println(num)
                 count++
             }
-        }
-
-    println("Prime Count $count")
+         }
+            if(count <= 2)
+            {
+                println("$num ")
+                primeCount++
+            }
+    }
+    println("Prime Count $primeCount")
 }

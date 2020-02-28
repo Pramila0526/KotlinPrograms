@@ -1,5 +1,10 @@
 package com.bridgelabz.basiccore
-
+/***********************************************************************************************************************
+ * Author   : Pramila Mangesh Tawari
+ * Purpose  : Program to Flip a Coin and Count occurrences and percentage of heads and tails
+ * Date     : 25/02/2020
+ *
+ **********************************************************************************************************************/
 fun main(args : Array<String>) {
 
     println("Enter the number of Flips")
